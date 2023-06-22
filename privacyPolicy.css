@@ -1,0 +1,28 @@
+/* Privacy Policy Section Styling */
+.privacy-policy {
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .privacy-policy h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .privacy-policy p {
+    margin-bottom: 10px;
+    line-height: 1.5;
+  }
+  
+  .privacy-policy a {
+    color: #337ab7;
+    text-decoration: none;
+  }
+  
+  .privacy-policy a:hover {
+    text-decoration: underline;
+  }
+  
